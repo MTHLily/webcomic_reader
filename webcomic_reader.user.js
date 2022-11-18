@@ -344,7 +344,7 @@ var defaultSettings = {
 // @include        http://memoria.valice.net/*
 // @include        http://www.twilightlady.com/*
 // @include        http://submanga.com/*
-// @include        http://g.e-hentai.org/*
+// @include        https://g.e-hentai.org/*
 // @include        http://animesquish.com/*
 // @include        http://crazytje.be/*
 // @include        http://www.tenmangas.com/*
@@ -412,7 +412,7 @@ var defaultSettings = {
 // @include        http://babyblues.com/*
 // @include        http://www.bearandtiger.com/*
 // @include        http://mangatopia.net/*
-// @include        http://exhentai.org/*
+// @include        https://exhentai.org/*
 // @include        http://www.wigucomics.com/*
 // @include        http://www.mankin-trad.net/*
 // @include        http://mankin-trad.net/*
